@@ -17,4 +17,4 @@ Soy un analista de ciberseguridad enfocado en Blue Team y detección de amenazas
 
 ## Contacto  
 [LinkedIn](https://www.linkedin.com/in/genaro-andres-sepulveda/) | genaro.sepulveda@gmail.com
-[TryHackMe](https://tryhackme.com/p/NaroGn) 
+| [TryHackMe](https://tryhackme.com/p/NaroGn) 
