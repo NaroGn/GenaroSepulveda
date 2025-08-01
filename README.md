@@ -15,4 +15,4 @@ Me apasiona estudiar ingeniería social y proteger a las empresas contra ataques
 - Guías de detección y mitigación  
 
 ## Contacto  
-[LinkedIn](https://linkedin.com/in/genarosepulveda) | genaro.sepulveda@gmail.com
+[LinkedIn](https://www.linkedin.com/in/genaro-andres-sepulveda/) | genaro.sepulveda@gmail.com
